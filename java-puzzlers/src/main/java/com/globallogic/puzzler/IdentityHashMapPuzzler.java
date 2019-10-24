@@ -2,7 +2,7 @@ package com.globallogic.puzzler;
 
 import java.util.IdentityHashMap;
 
-public class IdentityHashMapPuzzler {
+public class IdentityHashMapPuzzler { // Medium, Theoretical
 
     public static void main(String[] args) {
         var map = new IdentityHashMap<Object, String>();
