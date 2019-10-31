@@ -1,4 +1,4 @@
-package com.globallogic.puzzler.joshuaboch;
+package com.globallogic.puzzler.joshuabloch;
 
 public class Indecisive { // Joshua Bloch's Puzzlers. Puzzle 36: Indecisive. Easy, Theoretical
 

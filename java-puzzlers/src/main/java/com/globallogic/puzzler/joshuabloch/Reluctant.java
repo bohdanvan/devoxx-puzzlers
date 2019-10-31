@@ -1,4 +1,4 @@
-package com.globallogic.puzzler.joshuaboch;
+package com.globallogic.puzzler.joshuabloch;
 
 public class Reluctant { // Joshua Bloch's Puzzlers. Puzzle 40: The Reluctant Constructor. Medium, Theoretical
 

@@ -1,4 +1,4 @@
-package com.globallogic.puzzler.joshuaboch;
+package com.globallogic.puzzler.joshuabloch;
 
 public class Workout { // Joshua Bloch's Puzzlers. Puzzle 45: Exhausting Workout. Very Hard, Theoretical
 

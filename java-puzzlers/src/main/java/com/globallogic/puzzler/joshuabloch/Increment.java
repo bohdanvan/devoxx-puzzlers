@@ -1,4 +1,4 @@
-package com.globallogic.puzzler.joshuaboch;
+package com.globallogic.puzzler.joshuabloch;
 
 public class Increment { // Joshua Bloch's Puzzlers. Puzzle 25: Increment Increment. Easy, Theoretical
 

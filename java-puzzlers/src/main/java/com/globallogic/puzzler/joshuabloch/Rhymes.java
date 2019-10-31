@@ -1,4 +1,4 @@
-package com.globallogic.puzzler.joshuaboch;
+package com.globallogic.puzzler.joshuabloch;
 
 import java.util.Random;
 

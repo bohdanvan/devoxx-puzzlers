@@ -1,4 +1,4 @@
-package com.globallogic.puzzler.joshuaboch;
+package com.globallogic.puzzler.joshuabloch;
 
 public class LongDivision { // Joshua Bloch's Puzzlers. Puzzle 3: Long Division. Medium, Theoretical
 
